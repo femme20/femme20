@@ -1,6 +1,6 @@
 <div align="center">
 
-# FESTINA LENTE.
+# WANIA RAHMAN
 
 ### *It's a long game. Better be equipped.*
 
@@ -8,8 +8,6 @@ Building software one difficult problem at a time.
 
 <p>
 <a href="https://www.linkedin.com/in/wania-rahman/">LinkedIn</a> •
-<a href="mailto:YOUR_EMAIL_HERE">Email</a> •
-<a href="YOUR_RESUME_LINK">Resume</a>
 </p>
 
 </div>
@@ -18,27 +16,23 @@ Building software one difficult problem at a time.
 
 # Selected Work
 
-### 🛡️ Bastion
+### Bastion
 AI-powered cybersecurity platform combining modern security practices with intelligent threat analysis.
 
 **Tech**
 `C++` `C#` `.NET` `Blazor` `LLMs`
 
-➡️ https://github.com/USAID-REHAN/BASTION
-
 ---
 
-### 🧠 Loud Minds
+### Loud Minds
 Cross-platform AI-powered mental wellness platform built to deliver intelligent, personalized emotional support.
 
 **Tech**
 `Flutter` `Firebase` `Gemini AI`
 
-➡️ https://github.com/femme20/Loud-Mind
-
 ---
 
-### 🎣 PhishFish
+### PhishFish
 Intelligent phishing detection platform using multi-layer heuristic analysis and threat intelligence.
 
 **Tech**
@@ -53,8 +47,6 @@ Reactive academic portal focused on collaboration, scalability, and modern web d
 
 **Tech**
 `Blazor` `Supabase` `PostgreSQL`
-
-➡️ https://github.com/raheemxghumman/EduConnect
 
 ---
 
@@ -88,24 +80,7 @@ Reactive academic portal focused on collaboration, scalability, and modern web d
 
 ---
 
-# GitHub Stats
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=femme20&show_icons=true&hide_border=true&theme=transparent"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=femme20&layout=compact&hide_border=true&theme=transparent"/>
-
-</p>
-
----
-
-<div align="center">
-
-*"The future isn't built in a day.*
-
-*It's a long game.*
-
-*Better be equipped."*
+*"YOU ALREADY KNOW WHAT TO DO , JUST NEGOTIATING WITH 'the comfort' "*
 
 </div>
